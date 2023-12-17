@@ -38,6 +38,10 @@ const config: GatsbyConfig = {
             name: `GitHub`,
             url: `https://github.com/heyman333`,
           },
+          {
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/youngsu-han/`,
+          },
         ],
       },
     },
