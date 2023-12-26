@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `Lake's Blog`,
     siteHeadline: `Lake's Blog`,
     siteUrl: `https://lakezero.netlify.app`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteDescription: `Exploring and Reflecting: A Lake's Tech Blog`,
     siteImage: `/banner2.png`,
     siteLanguage: `ko`,
     author: `@lekoarts_de`,
