@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Lake's Blog`,
     siteTitleAlt: `Lake's Blog`,
     siteHeadline: `Lake's Blog`,
-    siteUrl: `https://lakezero.netlify.app`,
+    siteUrl: `https://awesomelake.net/`,
     siteDescription: `Exploring and Reflecting: A Lake's Tech Blog`,
     siteImage: `/banner2.png`,
     siteLanguage: `ko`,
